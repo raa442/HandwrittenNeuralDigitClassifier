@@ -108,27 +108,15 @@ namespace neuralnetworkstuff
                         {
 
                             data[i] = ((double)((int)fs.ReadByte())) / 255.0-0.5;
-                         //   dataSum[i] += ((double)((int)fs.ReadByte())) / 255.0f;
                             dataVals[n][i] = data[i];
 
 
                         }
-                 //       Console.WriteLine(5);
-
-
+           
 
                     }
 
-                    //  dataVals.
-
-                    /*        for (int i = 0; i < 784; i++)
-                            {
-
-                                //     data[i] = ((double)((int)fs.ReadByte())) / 255.0f;
-                                dataMean[i] = dataSum[i] / length.0;
-                                datastd[i] = std(dataMean[i], dataVals[i]);
-                            }
-                    */
+              
                     for (int n = 0; n < length; n++)
                     {
                         double[] data = new double[rows * cols];

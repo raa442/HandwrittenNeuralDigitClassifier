@@ -8,10 +8,10 @@ namespace neuralnetworkstuff
 {
     [Serializable()]
 
-    class NN
+    public class NN
     {
-        public string FileName = @" D:/programming/visStudio/neuralnetworkstuff/bin/Networknnn.bin";
-
+        public string FileName = @" ./../../../bin/Networknnn.bin";
+        public int id;
         private double[][][] weights;//layer,node to go to, node coming from
         public double[][] activations;// layer, node at
         private double[][] biasses;//layer, node at

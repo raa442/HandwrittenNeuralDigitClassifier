@@ -1,0 +1,9 @@
+C:\D_Drive\programming\nn\HandwrittenNeuralDigitClassifier\HandwrittenDigitClassifier-main\obj\Debug\neuralnetworkstuff.csprojAssemblyReference.cache
+C:\D_Drive\programming\nn\HandwrittenNeuralDigitClassifier\HandwrittenDigitClassifier-main\obj\Debug\neuralnetworkstuff.Form1.resources
+C:\D_Drive\programming\nn\HandwrittenNeuralDigitClassifier\HandwrittenDigitClassifier-main\obj\Debug\neuralnetworkstuff.csproj.GenerateResource.cache
+C:\D_Drive\programming\nn\HandwrittenNeuralDigitClassifier\HandwrittenDigitClassifier-main\bin\Debug\neuralnetworkstuff.exe.config
+C:\D_Drive\programming\nn\HandwrittenNeuralDigitClassifier\HandwrittenDigitClassifier-main\bin\Debug\neuralnetworkstuff.exe
+C:\D_Drive\programming\nn\HandwrittenNeuralDigitClassifier\HandwrittenDigitClassifier-main\bin\Debug\neuralnetworkstuff.pdb
+C:\D_Drive\programming\nn\HandwrittenNeuralDigitClassifier\HandwrittenDigitClassifier-main\obj\Debug\neuralnetworkstuff.csproj.CoreCompileInputs.cache
+C:\D_Drive\programming\nn\HandwrittenNeuralDigitClassifier\HandwrittenDigitClassifier-main\obj\Debug\neuralnetworkstuff.exe
+C:\D_Drive\programming\nn\HandwrittenNeuralDigitClassifier\HandwrittenDigitClassifier-main\obj\Debug\neuralnetworkstuff.pdb
